@@ -82,7 +82,7 @@
 
 ### **Notes**
 
-HTML class = JS className
+HTML "class" = JS "className"
 
 ### **Alternatives**
 
@@ -92,11 +92,27 @@ HTML class = JS className
 
 ### **Tools**
 
+#### Code Editor
+
 - https://codepen.io/pen
 
 - https://jsbin.com/
 
 - https://code.visualstudio.com/
+
+#### Dependency Management
+
+- [npm](https://www.npmjs.com/)
+
+- [yarn](https://yarnpkg.com/)
+
+#### Bundler
+
+- [Webpack]()
+
+### Compiler
+
+- [Babel]()
 
 ## **JS Array Functions**
 
