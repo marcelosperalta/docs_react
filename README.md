@@ -114,6 +114,10 @@ HTML "class" = JS "className"
 
 - [Babel]()
 
+### Node.js
+
+- [Download](https://nodejs.org/en/download/)
+
 ## **JS Array Functions**
 
 Not really next-gen JavaScript, but also important: 
@@ -137,20 +141,20 @@ Particularly important in this course are:
 [slice()      ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)  
 [splice()     ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)  
 
-## Dependencies
+##  Create React App
+
+https://github.com/facebook/create-react-app
 
 ```
-npm i react
+npm install -g create-react-app
 ```
 
 ```
-npm i react-dom
-```
-
-https://babeljs.io/
-
-Babel is a JavaScript compiler.
+create-react-app react-complete-guide --scripts-version 1.1.5
 
 ```
-npm i babel
+
+```
+npm start
+
 ```
