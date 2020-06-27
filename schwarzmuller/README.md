@@ -82,6 +82,8 @@
 
 ### **Notes**
 
+#### [Supported Events](https://reactjs.org/docs/events.html#supported-events)
+
 HTML "class" = JS "className"
 
 ### **Alternatives**
