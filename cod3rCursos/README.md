@@ -5,3 +5,7 @@
 '''
 npx create-react-app fundamentos-react
 '''
+
+'''
+npm start
+'''
