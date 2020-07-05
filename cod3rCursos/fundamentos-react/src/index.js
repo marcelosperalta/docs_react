@@ -2,7 +2,7 @@ import "./index.css"
 import React from "react"
 import ReactDOM from "react-dom"
 
-import App from "./App"
+import App from "./App.jsx"
 
 // import Primeiro from "./components/Primeiro"
 // // import ComParametro from "./components/ComParametro"
