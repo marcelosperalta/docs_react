@@ -1,13 +1,13 @@
 import "./App.css"
 import React from "react"
 
-import Primeiro from "./components/Primeiro"
-import ComParametro from "./components/basicos/omParametro"
+import Primeiro from "./components/basicos/Primeiro"
+import ComParametro from "./components/basicos/ComParametro"
 import ComFilhos from "./components/basicos/ComFilhos"
 import Card from "./components/layout/Card"
-import Repeticao from "./components/Repeticao"
-import Condicional from "./components/Condicional"
-import CondicionalComIf from "./components/CondicionalComIf"
+import Repeticao from "./components/basicos/Repeticao"
+import Condicional from "./components/basicos/Condicional"
+import CondicionalComIf from "./components/basicos/CondicionalComIf"
 
 export default (props) => (
         <div className="App">
