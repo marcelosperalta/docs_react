@@ -1,9 +1,17 @@
 import React from "react"
-import Filho from "./Filho"
+import Sub from "./Sub"
 
-export default props =>
-    <div>
-        <Filho {...props}><strong>João</strong></Filho>
-        <Filho sobrenome={props.sobrenome}>Maria</Filho>
-        <Filho sobrenome="Silva">Pedro</Filho>
-    </div>
+export default props => {
+
+    function quandoClicar(valorGerado){
+        console.log("Ação!!!");
+        console.log(valorGerado);
+    }
+
+    return (
+        <div>
+        <h4>Valor</h4>
+        <Sub onClicar={quandoClicar}></Sub>
+        </div>
+    );
+};
