@@ -1,5 +1,5 @@
 import React from "react"
-import Sub from "./Sub"
+import FilhoSub from "./FilhoSub"
 
 export default props => {
 
@@ -11,7 +11,7 @@ export default props => {
     return (
         <div>
         <h4>Valor</h4>
-        <Sub onClicar={quandoClicar}></Sub>
+        <FilhoSub onClicar={quandoClicar}></FilhoSub>
         </div>
     );
 };
