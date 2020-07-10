@@ -3,9 +3,10 @@ import FilhoSub from "./FilhoSub"
 
 export default props => {
 
-    function quandoClicar(valorGerado){
+    function quandoClicar(valorGerado, texto){
         console.log("Ação!!!");
         console.log(valorGerado);
+        console.log(texto);
     }
 
     return (
