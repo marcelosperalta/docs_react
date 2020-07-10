@@ -18,8 +18,32 @@ import React from "react"
 //     </>
 
 // exemplo com parametros usando o nome comum "props"
-export default props =>
+// export default props =>
+//     <>
+//         <h3>{props.titulo}</h3>
+//         <p>{props.subtitulo}</p>
+//     </>
+
+// O exemplo abaixo gera erro
+// TypeError: Cannot assign to read only property 'titulo' of object '#<Object>'
+// export default (props) => {
+    // props é somente leitura!!!!
+//     props.titulo = "Outro Título"
+//     return (
+//     <>
+//         <h3>{props.titulo}</h3>
+//         <p>{props.subtitulo}</p>
+//     </>
+//     );
+// };
+
+export default (props) => {
+    // props é somente leitura!!!!
+    // props.titulo = "Outro Título"
+    return (
     <>
         <h3>{props.titulo}</h3>
         <p>{props.subtitulo}</p>
     </>
+    );
+};
