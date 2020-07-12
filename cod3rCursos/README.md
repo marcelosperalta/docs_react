@@ -21,3 +21,7 @@ npm start
 **[useState](https://reactjs.org/docs/hooks-reference.html#usestate)**  
 **[Forms](https://reactjs.org/docs/forms.html)**  
 **[Controlled Components](https://reactjs.org/docs/forms.html#controlled-components)**  
+
+### Screenshot
+
+![app](./fundamentos-react/screenshot.png)
