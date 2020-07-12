@@ -2,11 +2,11 @@
 
 ## React JS Curso Rápido 2020 ##
 
-### Repositório no GitHub
+### _Repositório no GitHub:_
 
 https://github.com/cod3rcursos/youtube/tree/master/fundamentos-react
 
-### Aulas
+### _Aulas:_
 
 #### [React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!](https://www.youtube.com/watch?v=XQxitgyZ_S4)
 
@@ -28,6 +28,6 @@ npm start
 **[Forms](https://reactjs.org/docs/forms.html)**  
 **[Controlled Components](https://reactjs.org/docs/forms.html#controlled-components)**  
 
-### Screenshot
+### _Screenshot:_
 
 ![app](./fundamentos-react/screenshot.png)
