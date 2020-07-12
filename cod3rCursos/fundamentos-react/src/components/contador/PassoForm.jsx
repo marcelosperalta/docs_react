@@ -4,7 +4,7 @@ export default (props) => {
 
     return (
         <div>
-            <label for="passoInput">Passo: </label>
+            <label htmlFor="passoInput">Passo: </label>
             <input 
                 id="passoInput" 
                 type="number"
