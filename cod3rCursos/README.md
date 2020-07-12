@@ -2,7 +2,11 @@
 
 ## React JS Curso Rápido 2020 ##
 
-#### [Repositório no GitHub](https://github.com/cod3rcursos/youtube/tree/master/fundamentos-react)
+### Repositório no GitHub
+
+https://github.com/cod3rcursos/youtube/tree/master/fundamentos-react
+
+### Aulas
 
 #### [React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!](https://www.youtube.com/watch?v=XQxitgyZ_S4)
 
