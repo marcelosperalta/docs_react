@@ -5,6 +5,7 @@
 # **[React](https://reactjs.org/) Study**
 
 ## :books: Tutorials:  
+<br>
 
 **_Brazilian Portuguese:_**
 
@@ -16,6 +17,7 @@ _[React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!](https://ww
 ### :mortar_board: **[Rocketseat](https://rocketseat.com.br/)**  
 :sunglasses: [Diego Fernandes](https://github.com/diego3g)  
 _[Starter > ReactJS](https://app.rocketseat.com.br/node/curso-react-js)_  
+<br>
 
 **_English:_**
 
