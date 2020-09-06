@@ -1,4 +1,4 @@
- # [React](https://reactjs.org/)
+# [React](https://reactjs.org/)
 
 ## [Getting Started](https://reactjs.org/docs/getting-started.html)
 
