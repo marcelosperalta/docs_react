@@ -20,5 +20,5 @@ _[Starter > ReactJS](https://app.rocketseat.com.br/node/curso-react-js)_
 _English:_
 
 :mortar_board: **[Academind](https://academind.com/)**  
-:sunglasses: _instructor:_ Maximilian Schwarzmüller @maxschwarzmueller
+:sunglasses: _instructor:_ Maximilian Schwarzmüller @maxschwarzmueller  
 _[React - The Complete Guide (incl Hooks, React Router, Redux)](https://pro.academind.com/p/react-the-complete-guide-incl-hooks-react-router-redux)_  
