@@ -27,3 +27,9 @@ cd huntweb
 ```
 code .
 ```
+
+```
+npm start
+```
+
+http://localhost:3000/
