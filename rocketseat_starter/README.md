@@ -1,4 +1,4 @@
-# [Rocketseat](https://rocketseat.com.br/)
+# :rocket:[Rocketseat](https://rocketseat.com.br/)
 
 ## Starter
 
@@ -32,4 +32,8 @@ code .
 npm start
 ```
 
-http://localhost:3000/
+:link: http://localhost:3000/  
+
+```
+yarn add axios
+```

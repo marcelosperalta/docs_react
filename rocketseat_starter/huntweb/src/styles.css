@@ -2,5 +2,12 @@
     margin: 0;
     padding: 0;
     outline: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; 
+    /* border-box = faz com que o padding nao aumente o width e o height dos elementos */
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fafafa;
+    color: #333;
 }
