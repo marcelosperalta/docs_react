@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 
 import api from "../../services/api";
+import Main from "../main";
+
+import { Link } from "react-router-dom";
 
 import "./styles.css"
 
@@ -29,6 +32,10 @@ export default class Product extends Component {
                 <p>
                     URL: <a href={product.url}>{product.url}</a>
                 </p>
+                <div className="actions">
+                    <Link to={`/`}>Voltar</Link>
+                </div>
+                
             </div>
         );
     }
