@@ -5,7 +5,6 @@ import Routes from "./routes";
 import "./styles.css"
 
 import Header from "./components/Header";
-
 import Main from "./pages/main";
 
 function App() {
@@ -16,6 +15,6 @@ function App() {
       <Routes />
     </div>
   );
-}
+};
 
 export default App;
