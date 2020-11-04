@@ -1,4 +1,4 @@
-<div align="end">
+<div align="center">
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
 </div>
 
@@ -17,6 +17,9 @@ _[React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!](https://ww
 ### :mortar_board: **[Rocketseat](https://rocketseat.com.br/)**  
 :sunglasses: [Diego Fernandes](https://github.com/diego3g)  
 _[Starter > ReactJS](https://app.rocketseat.com.br/node/curso-react-js)_  
+
+### :mortar_board: **[Filipe Deschamps](https://filipedeschamps.com.br/)**  
+_[Se Você Passar Por Esses 5 Desafios, Você Aprendeu React JS](https://www.youtube.com/watch?v=aJR7f45dBNs)_  
 <br>
 
 **_English:_**
