@@ -1,23 +1,35 @@
-import logo from './logo.svg';
 import './App.css';
+
+function CapsLock(props) {
+  const textoInserido = props.texto;
+  const textoEmCapsLock = textoInserido.toUpperCase();
+  return <div>{textoEmCapsLock}</div>
+}
+
+function CapsLockFromChildren(props) {
+  const textoInserido = props.children;
+  const textoEmCapsLock = textoInserido.toUpperCase();
+  return <div>{textoEmCapsLock}</div>
+}
+
+function Contador() {
+  return (
+    <div>
+      <div>1</div>
+      <button>Adicionar</button>
+    </div>
+  )
+}
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+          <br></br>
+          <CapsLock texto="CapsLock" />
+          <br></br>
+          <CapsLockFromChildren>Children component</CapsLockFromChildren>
+          <br></br>
+          <Contador />
     </div>
   );
 }
