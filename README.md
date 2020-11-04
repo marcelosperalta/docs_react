@@ -19,7 +19,7 @@ _[React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!](https://ww
 _[Starter > ReactJS](https://app.rocketseat.com.br/node/curso-react-js)_  
 
 ### :mortar_board: **[Filipe Deschamps](https://filipedeschamps.com.br/)**  
-:sunglasses: [Filipe Deschamps](https://github.com/filipedeschamps) 
+:sunglasses: [Filipe Deschamps](https://github.com/filipedeschamps)  
 _[Se Você Passar Por Esses 5 Desafios, Você Aprendeu React JS](https://www.youtube.com/watch?v=aJR7f45dBNs)_  
 <br>
 
