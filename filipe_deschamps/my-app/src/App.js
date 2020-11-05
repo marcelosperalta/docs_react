@@ -1,4 +1,5 @@
 import './App.css';
+import { useState } from 'react';
 
 function CapsLock(props) {
   const textoInserido = props.texto;
@@ -13,10 +14,26 @@ function CapsLockFromChildren(props) {
 }
 
 function Contador() {
+  // nao usa "useState"
+  // forma errada
+  // let contador = 10;
+  // function adicionarContador() {
+  //   contador = contador + 1;
+  //   console.log(contador);
+  // }
+  
+  // forma correta
+  const [contador,setContador] = useState(1);
+
+
+  function adicionarContador() {
+      setContador(contador + 1);
+  }
+
   return (
     <div>
-      <div>1</div>
-      <button>Adicionar</button>
+      <div>{contador}</div>
+      <button onClick={adicionarContador}>Adicionar</button>
     </div>
   )
 }
