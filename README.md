@@ -9,6 +9,8 @@
 
 **_Brazilian Portuguese:_**
 
+### :mortar_board: **[React.org](https://pt-br.reactjs.org/)**  
+
 ### :mortar_board: **[Cod3r Cursos](https://www.cod3r.com.br)**  
 :sunglasses: [Leonardo Moura Leitão](https://github.com/leonardomleitao)  
 _[React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!](https://www.youtube.com/watch?v=XQxitgyZ_S4)_  
