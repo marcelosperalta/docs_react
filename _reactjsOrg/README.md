@@ -17,3 +17,13 @@ Uma biblioteca JavaScript para criar interfaces de usuário
 
 **[Babel REPL](https://babeljs.io/repl/)**
 _Permite ver o código JavaScript bruto produzido pela etapa de compilação do JSX._  
+
+- método ```render()```  
+- this.props  
+- this.state  
+
+## Editores Online
+
+[CODEPEN](https://codepen.io/)  
+[CodeSandbox](https://codesandbox.io/)  
+[Stackblitz](https://stackblitz.com/)  
