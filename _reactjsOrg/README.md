@@ -1,4 +1,10 @@
-_english version_  
+<div>
+  <img 
+    src="./readme/usa.png"
+    width="16px">
+    english version:
+  </img>
+</div>
 
 # [React.org](https://reactjs.org/)
 
@@ -6,7 +12,13 @@ A JavaScript library for building user interfaces
 
 <br>
 
-_portuguese version_  
+<div>
+  <img 
+    src="./readme/brasil.png"
+    width="16px">
+    portuguese version:
+  </img>
+</div>
 
 # [React.org](https://pt-br.reactjs.org/)
 
@@ -75,3 +87,4 @@ _Permite ver o código JavaScript bruto produzido pela etapa de compilação do 
 ### Adicione o React em Um Minuto
 
 :file_folder: 2_addOneMinute  
+
