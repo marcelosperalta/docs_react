@@ -27,8 +27,7 @@ Uma biblioteca JavaScript para criar interfaces de usuário
 - Declarativo  
 - Baseado em componentes  
 
-**[Babel REPL](https://babeljs.io/repl/)**
-_Permite ver o código JavaScript bruto produzido pela etapa de compilação do JSX._  
+**[Babel REPL](https://babeljs.io/repl/)** :arrow_right: _Permite ver o código JavaScript bruto produzido pela etapa de compilação do JSX._  
 
 - método ```render()```  
 - this.props  
