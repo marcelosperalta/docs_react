@@ -11,7 +11,7 @@
   <img 
     src="./readme/usa.png"
     width="16px">
-    english version:
+    <b>english version:</b>
   </img>
 </div>
 
@@ -23,11 +23,13 @@
 :tv: _[React - The Complete Guide (incl Hooks, React Router, Redux)](https://pro.academind.com/p/react-the-complete-guide-incl-hooks-react-router-redux)_  
 :file_folder: [schwarzmuller](./schwarzmuller)  
 
+<br>
+
 <div>
   <img 
     src="./readme/brasil.png"
     width="16px">
-    portuguese version:
+     <b>portuguese version:</b>
   </img>
 </div>
 
