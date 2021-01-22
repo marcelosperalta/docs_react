@@ -1,6 +1,6 @@
 <div>
   <img 
-    src="./readme/usa.png"
+    src="../readme/usa.png"
     width="16px">
     english version:
   </img>
@@ -14,7 +14,7 @@ A JavaScript library for building user interfaces
 
 <div>
   <img 
-    src="./readme/brasil.png"
+    src="../readme/brasil.png"
     width="16px">
     portuguese version:
   </img>
