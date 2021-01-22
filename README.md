@@ -7,7 +7,13 @@
 ## :books: Tutorials:  
 <br>
 
-**_English:_**
+<div>
+  <img 
+    src="./readme/usa.png"
+    width="16px">
+    english version:
+  </img>
+</div>
 
 ### :mortar_board: **[React.org](https://reactjs.org/)**  
 :file_folder: [_reactjsOrg](./_reactjsOrg)  
@@ -17,7 +23,13 @@
 :tv: _[React - The Complete Guide (incl Hooks, React Router, Redux)](https://pro.academind.com/p/react-the-complete-guide-incl-hooks-react-router-redux)_  
 :file_folder: [schwarzmuller](./schwarzmuller)  
 
-**_Brazilian Portuguese:_**
+<div>
+  <img 
+    src="./readme/brasil.png"
+    width="16px">
+    portuguese version:
+  </img>
+</div>
 
 ### :mortar_board: **[React.org](https://pt-br.reactjs.org/)**  
 :file_folder: [_reactjsOrg](./_reactjsOrg)  
