@@ -71,11 +71,38 @@ var car1 = new Car('Eagle', 'Talon TSi', 1993, rand);
 var car2 = new Car('Nissan', '300ZX', 1992, ken);
 console.log(car2.owner.name); // expected output: Ken Jones
 car1.color = 'black'; 
-console.log(car1); // expected output:
-                   // Car {
-                   //     make: 'Eagle',
-                   //     model: 'Talon TSi',
-                   //     year: 1993,
-                   //     owner: Person { name: 'Rand McKinnon', age: 33, sex: 'M' },
-                   //     color: 'black'
-                   // }
+console.log(car1);            // expected output:
+                              // Car {
+                              //     make: 'Eagle',
+                              //     model: 'Talon TSi',
+                              //     year: 1993,
+                              //     owner: Person { name: 'Rand McKinnon', age: 33, sex: 'M' },
+                              //     color: 'black'
+                              // }
+
+const Manager = {
+  name: "John",
+  age: 27,
+  job: "Software Engineer"
+}
+const Intern= {
+  name: "Ben",
+  age: 21,
+  job: "Software Engineer Intern"
+}
+function sayHi() {
+    console.log('Hello, my name is', this.name)
+}
+// add sayHi function to both objects
+Manager.sayHi = sayHi;
+Intern.sayHi = sayHi;
+Manager.sayHi() // expected output: Hello, my name is John'
+Intern.sayHi()  // expected output: Hello, my name is Ben'
+
+function howOldAmI (){
+    console.log('I am ' + this.age + ' years old.')
+  }
+Manager.howOldAmI = howOldAmI;
+Manager.howOldAmI() // expected output: I am 27 years old.
+Intern.howOldAmI = howOldAmI;
+Intern.howOldAmI()  // expected output: I am 21 years old.
