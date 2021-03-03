@@ -106,3 +106,28 @@ Manager.howOldAmI = howOldAmI;
 Manager.howOldAmI() // expected output: I am 27 years old.
 Intern.howOldAmI = howOldAmI;
 Intern.howOldAmI()  // expected output: I am 21 years old.
+
+var o = {
+    a: 7,
+    get b() {
+      return this.a + 1;
+    },
+    set c(x) {
+      this.a = x / 2;
+    }
+};
+console.log(o.a); // expected output: 7
+console.log(o.b); // expected output: 8  <-- At this point the get b() method is initiated.
+o.c = 50;         //                     <-- At this point the set c(x) method is initiated
+console.log(o.a); // expected output: 25
+console.log(o.b); // expected output: 26
+
+var o = { a: 0 };
+Object.defineProperties(o, {
+    'b': { get: function() { return this.a + 1; } },
+    'c': { set: function(x) { this.a = x / 2; } }
+});
+console.log(o.b); // expected output: 1
+o.c = 10;                               // Runs the setter, which assigns 10 / 2 (5) to the 'a' property
+console.log(o.a); // expected output: 5
+console.log(o.b); // expected output: 6 // Runs the getter, which yields a + 1 or 6
