@@ -31,7 +31,7 @@
 
 <div>
   <img 
-    src="./readme/brasil.png"
+    src="./readme/brazil.png"
     width="16px">
      <b>portuguese:</b>
   </img>

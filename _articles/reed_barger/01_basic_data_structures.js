@@ -1,5 +1,5 @@
 
-// variables (declarations)
+// ---------- variables (declarations) ---------- 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations
 // var, let, const
 
@@ -19,9 +19,11 @@ const number = 42;   // read-only
 console.log(number); // expected output: 42
 
 
-// objects
+// ---------- objects ---------- 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+// {}
 // name (or key) and value:
+
 var myCar = {
 //  name  value
     make: "Porsche"
@@ -160,3 +162,8 @@ console.log(fruit == fruitbear);  // expected output:  true
 console.log(fruit === fruitbear); // expected output:  true
 fruit.name = 'grape';
 console.log(fruitbear); // output: { name: "grape" }, instead of { name: "apple" }
+
+
+// ---------- arrays ---------- 
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+// []
