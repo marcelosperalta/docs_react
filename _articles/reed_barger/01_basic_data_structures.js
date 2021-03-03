@@ -131,3 +131,32 @@ console.log(o.b); // expected output: 1
 o.c = 10;                               // Runs the setter, which assigns 10 / 2 (5) to the 'a' property
 console.log(o.a); // expected output: 5
 console.log(o.b); // expected output: 6 // Runs the getter, which yields a + 1 or 6
+
+// Creates a new object, myobj, with two properties, a and b.
+var myobj = new Object;
+myobj.a = 5;
+myobj.b = 12;
+console.log(myobj);         // expected output: { a: 5, b: 12 }
+// Removes the a property, leaving myobj with only the b property.
+delete myobj.a;
+console.log ('a' in myobj); // expected output: "false"
+console.log(myobj)          // expected output: { b: 12 }
+
+g = 17;
+console.log(g);    // expected output: 17
+delete g;
+// console.log(g); // expected output: error: "g is not define"
+
+// Two variables, two distinct objects with the same properties
+var fruit = {name: 'apple'};
+var fruitbear = {name: 'apple'};
+console.log(fruit == fruitbear);  // expected output: false
+console.log(fruit === fruitbear); // expected output: false
+// Two variables, a single object
+var fruit = {name: 'apple'};
+var fruitbear = fruit;  // Assign fruit object reference to fruitbear
+// Here fruit and fruitbear are pointing to same object
+console.log(fruit == fruitbear);  // expected output:  true
+console.log(fruit === fruitbear); // expected output:  true
+fruit.name = 'grape';
+console.log(fruitbear); // output: { name: "grape" }, instead of { name: "apple" }
