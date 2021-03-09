@@ -1,5 +1,4 @@
-
-// ---------- variables (declarations) ---------- 
+console.log(` -------------------- variables (declarations) -------------------- `)
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations
 // var, let, const
 
@@ -19,7 +18,7 @@ const number = 42;   // read-only
 console.log(number); // expected output: 42
 
 
-// ---------- objects ---------- 
+console.log(` -------------------- objects -------------------- `)
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 // {}
 // name (or key) and value:
@@ -164,6 +163,48 @@ fruit.name = 'grape';
 console.log(fruitbear); // output: { name: "grape" }, instead of { name: "apple" }
 
 
-// ---------- arrays ---------- 
+console.log(` -------------------- arrays -------------------- `)
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 // []
+
+let fruits = ['Apple', 'Banana']
+console.log(fruits.length) // 2
+
+let first = fruits[0]
+console.log(first)        // Apple
+
+let last = fruits[fruits.length - 1]
+console.log(last)         // Banana
+
+fruits.forEach(function(item, index, array) {
+  console.log(item, index) // Apple 0
+                           // Banana 1
+})
+
+let newLength1 = fruits.push('Orange')
+console.log(newLength1) // 3
+console.log(fruits)     // [ 'Apple', 'Banana', 'Orange' ]
+
+let removeLast = fruits.pop() // remove Orange (from the end)
+console.log(removeLast) // Orange
+console.log(fruits)     // ["Apple", "Banana"]
+
+let removeFirst = fruits.shift() // remove Apple from the front
+console.log(removeFirst) // Apple
+console.log(fruits)      // ["Banana"]
+
+let newLength2 = fruits.unshift('Strawberry') // add to the front
+console.log(newLength2)  // 2
+console.log(fruits)      // [ 'Strawberry', 'Banana' ]
+
+                // index            0,        1,       2
+fruits.push('Mango') // ["Strawberry", "Banana", "Mango"]
+let pos = fruits.indexOf('Banana')
+console.log(pos)     // 1
+let pos2 = fruits.indexOf('Mango')
+console.log(pos2)    // 2
+
+let removedItem = fruits.splice(pos, 1) // this is how to remove an item
+console.log(removedItem) // [ 'Banana' ]
+console.log(fruits)      // ["Strawberry", "Mango"]
+
