@@ -167,36 +167,43 @@ console.log(` -------------------- arrays -------------------- `)
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 // []
 
+console.log("Create an Array");
 let fruits = ['Apple', 'Banana']
 console.log(fruits.length) // 2
 
+console.log("Access an Array item using the index position");
 let first = fruits[0]
 console.log(first)        // Apple
-
 let last = fruits[fruits.length - 1]
 console.log(last)         // Banana
 
+console.log("Loop over an Array");
 fruits.forEach(function(item, index, array) {
   console.log(item, index) // Apple 0
                            // Banana 1
 })
 
+console.log("Add an item to the end of an Array");
 let newLength1 = fruits.push('Orange')
 console.log(newLength1) // 3
 console.log(fruits)     // [ 'Apple', 'Banana', 'Orange' ]
 
+console.log("Remove an item from the end of an Array");
 let removeLast = fruits.pop() // remove Orange (from the end)
 console.log(removeLast) // Orange
 console.log(fruits)     // ["Apple", "Banana"]
 
+console.log("Remove an item from the beginning of an Array");
 let removeFirst = fruits.shift() // remove Apple from the front
 console.log(removeFirst) // Apple
 console.log(fruits)      // ["Banana"]
 
+console.log("Add an item to the beginning of an Array");
 let newLength2 = fruits.unshift('Strawberry') // add to the front
 console.log(newLength2)  // 2
 console.log(fruits)      // [ 'Strawberry', 'Banana' ]
 
+console.log("Find the index of an item in the Array");
                 // index            0,        1,       2
 fruits.push('Mango') // ["Strawberry", "Banana", "Mango"]
 let pos = fruits.indexOf('Banana')
@@ -204,7 +211,43 @@ console.log(pos)     // 1
 let pos2 = fruits.indexOf('Mango')
 console.log(pos2)    // 2
 
+console.log("Remove an item by index position");
 let removedItem = fruits.splice(pos, 1) // this is how to remove an item
 console.log(removedItem) // [ 'Banana' ]
 console.log(fruits)      // ["Strawberry", "Mango"]
 
+console.log("Remove items from an index position");
+         // pos2          0,        1,        2,       3
+let vegetables = ['Cabbage', 'Turnip', 'Radish', 'Carrot']
+console.log(vegetables)   // ["Cabbage", "Turnip", "Radish", "Carrot"]
+let pos3 = 1
+let n = 2
+let removedItems = vegetables.splice(pos3, n)
+// this is how to remove items, n defines the number of items to be removed,
+// starting at the index position specified by pos and progressing toward the end of array.
+console.log(vegetables)   // ["Cabbage", "Carrot"] (the original array is changed)
+console.log(removedItems) // ["Turnip", "Radish"]
+
+console.log("Copy an Array");
+let shallowCopy = fruits.slice() // this is how to make a copy
+console.log(shallowCopy); // ["Strawberry", "Mango"]
+
+console.log("Accessing array elements");
+// zero-indexed:
+//                                   0,                            1,                          2
+let arr = ['this is the first element', 'this is the second element', 'this is the last element']
+console.log(arr[0])              // logs 'this is the first element'
+console.log(arr[1])              // logs 'this is the second element'
+console.log(arr[arr.length - 1]) // logs 'this is the last element'
+console.log(arr[3])              // undefined
+// console.log(arr.0)            // a syntax error
+
+let years = [1950, 1960, 1970, 1980, 1990, 2000, 2010]
+// console.log(years.0)   // a syntax error
+console.log(years[0])     // works properly // 1950
+
+// renderer.3d.setTexture(model, 'character.png')     // a syntax error
+// renderer['3d'].setTexture(model, 'character.png')  // works properly 
+// In the 3d example, '3d' had to be quoted (because it begins with a digit).
+
+console.log(years['2'] != years['02']) // true
