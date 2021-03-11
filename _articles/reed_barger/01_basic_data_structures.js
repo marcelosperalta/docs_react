@@ -241,13 +241,33 @@ console.log(arr[1])              // logs 'this is the second element'
 console.log(arr[arr.length - 1]) // logs 'this is the last element'
 console.log(arr[3])              // undefined
 // console.log(arr.0)            // a syntax error
-
 let years = [1950, 1960, 1970, 1980, 1990, 2000, 2010]
 // console.log(years.0)   // a syntax error
 console.log(years[0])     // works properly // 1950
-
 // renderer.3d.setTexture(model, 'character.png')     // a syntax error
 // renderer['3d'].setTexture(model, 'character.png')  // works properly 
 // In the 3d example, '3d' had to be quoted (because it begins with a digit).
-
 console.log(years['2'] != years['02']) // true
+
+console.log("Relationship between length and numerical properties");
+const fruits2 = []
+fruits2.push('banana', 'apple', 'peach')
+console.log(fruits2.length)        // 3
+fruits2[5] = 'mango'
+console.log(fruits2[5])            // 'mango'
+console.log(Object.keys(fruits2))  // ['0', '1', '2', '5']
+console.log(fruits2.length)        // 6
+console.log(fruits2)               // [ 'banana', 'apple', 'peach', <2 empty items>, 'mango' ]
+fruits2.length = 10
+console.log(fruits2)               // ['banana', 'apple', 'peach', <2 empty items>, 'mango', <4 empty items>]
+console.log(Object.keys(fruits2))  // ['0', '1', '2', '5']
+console.log(fruits2.length)        // 10
+console.log(fruits2[8])            // undefined
+fruits2.length = 2
+console.log(Object.keys(fruits2))  // ['0', '1']
+console.log(fruits2.length)        // 2
+console.log(fruits2)               // [ 'banana', 'apple' ]
+fruits2.length = 10
+console.log(fruits2)               // [ 'banana', 'apple', <8 empty items> ]
+
+console.log("Creating an array using the result of a match");
