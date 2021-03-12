@@ -271,3 +271,21 @@ fruits2.length = 10
 console.log(fruits2)               // [ 'banana', 'apple', <8 empty items> ]
 
 console.log("Creating an array using the result of a match");
+// Match one d followed by one or more b's followed by one d
+// Remember matched b's and the following d
+// Ignore case
+const myRe = /d(b+)(d)/i
+const myArray = myRe.exec('cdbBdbsbz')
+console.log(myArray); // [ 'dbBd', 'bB', 'd', index: 1, input: 'cdbBdbsbz', groups: undefined ]
+
+console.log("Constructor");
+// Array()
+// [element0, element1, ..., elementN]
+// new Array(element0, element1[, ...[, elementN]])
+// new Array(arrayLength)
+let fruits3 = ['Apple', 'Banana'];
+console.log(fruits3.length); // 2
+console.log(fruits3[0]);     // "Apple"
+let fruits4 = new Array(2);
+console.log(fruits4.length); // 2
+console.log(fruits4[0]);     // undefined
