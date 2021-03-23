@@ -289,3 +289,18 @@ console.log(fruits3[0]);     // "Apple"
 let fruits4 = new Array(2);
 console.log(fruits4.length); // 2
 console.log(fruits4[0]);     // undefined
+
+// Array() constructor
+// https://tc39.es/ecma262/#sec-array-constructor
+let arrayLength = new Array(10)
+console.log(arrayLength.length); // 10
+console.log(arrayLength);        // [ <10 empty items> ]
+let fruits5 = ['Apple', 'Banana'];
+console.log(fruits5.length);      // 2
+console.log(fruits5[0]);          // "Apple"
+let fruits6 = ['Apple'];
+console.log(fruits6.length);      // 1
+console.log(fruits6[0]);          // "Apple"
+let fruits7 = new Array(2);
+console.log(fruits7.length);      // 2
+console.log(fruits7[0]);          // undefined
