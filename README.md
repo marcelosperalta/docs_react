@@ -40,12 +40,17 @@
 - :file_folder: [_reactjsOrg](./_reactjsOrg)  
 
 ### :mortar_board: **[Cod3r Cursos](https://www.cod3r.com.br)**  
-- :sunglasses: [Leonardo Moura Leitão](https://github.com/leonardomleitao)  
+- :octocat: [Leonardo Moura Leitão](https://github.com/leonardomleitao)  
 - :tv: _[React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!](https://www.youtube.com/watch?v=XQxitgyZ_S4)_  
 - :tv: _[React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!](https://www.youtube.com/watch?v=GJ8Vm-h0V8I)_  
 - :file_folder: [cod3rCursos](./course_cod3r)  
 
 ### :mortar_board: **[Rocketseat](https://rocketseat.com.br/)**  
-- :sunglasses: [Diego Fernandes](https://github.com/diego3g)  
+- :octocat: [Diego Fernandes](https://github.com/diego3g)  
 - :tv: _[Starter > ReactJS](https://app.rocketseat.com.br/node/curso-react-js)_  
 - :file_folder: [rocketseat_starter](./course_rocketseat_starter)  
+
+### :book: **[Primeiros passos com React](https://novatec.com.br/livros/primeiros-passos-com-react/)**  
+- :octocat: [Stoyan Stefanov](https://github.com/stoyan)  
+- :link: _[Stoyan's phpied.com](https://www.phpied.com/)_  
+- :file_folder: [rocketseat_starter](./book_stoyan)  

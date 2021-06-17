@@ -11,7 +11,7 @@ O’Reilly
 ISBN: 9781491931820  
 
 ## Materiais suplementares do livro
-https://github.com/stoyan/reactbook  
+:octocat: https://github.com/stoyan/reactbook  
 
 ## Problemas para visualizar o livro com o Amazon Kindle  
 
