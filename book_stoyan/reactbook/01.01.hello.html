@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hello React</title>
+    <meta charset="UTF-8">
+    <style>
+        * {
+            margin: 20px 0 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <!-- minha aplicacao e reenderizada aqui -->
+    </div>
+    <script src="./react/build/react.js"></script>
+    <script src="./react/build/react-dom.js"></script>
+    <script>
+        // codigo de minha aplicacao
+
+        // console.log(Object.keys(React.DOM));
+
+        ReactDOM.render(
+            // React.DOM.h1(null, "Hello World!"),
+
+            // React.DOM.h1(
+            //     {
+            //         id: "my-heading",
+            //     },
+            //     "Hello World!"
+            // ),
+
+            // React.DOM.h1(
+            //     {id: "my-heading"},
+            //     React.DOM.span(null, "Hello"),
+            //     " World!"
+            // ),
+
+            // React.DOM.h1(
+            //     {id: "my-heading"},
+            //     React.DOM.span(null,
+            //       React.DOM.em(null, "Hell"),
+            //       "o"
+            //     ),
+            //     " world!"
+            // ),
+
+            // // using className and htmlFor
+            // React.DOM.h1(
+            //     {
+            //         className: "pretty",
+            //         htmlFor: "me",
+            //     },
+            //     "Hello World!"
+            // ),
+
+            // using style
+            React.DOM.h1(
+                {
+                    style: {
+                        background: "black",
+                        color: "white",
+                        fontFamily: "Verdana",
+                    }
+                },
+                "Hello World!"
+            ),
+
+            document.getElementById("app")
+        );
+    </script>
+</body>
+</html>
