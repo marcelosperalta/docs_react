@@ -50,7 +50,7 @@
 - :tv: _[Starter > ReactJS](https://app.rocketseat.com.br/node/curso-react-js)_  
 - :file_folder: [rocketseat_starter](./course_rocketseat_starter)  
 
-### :book: **[Primeiros passos com React](https://novatec.com.br/livros/primeiros-passos-com-react/)**  
+### :blue_book: **[Primeiros passos com React](https://novatec.com.br/livros/primeiros-passos-com-react/)**  
 - :octocat: [Stoyan Stefanov](https://github.com/stoyan)  
 - :link: _[Stoyan's phpied.com](https://www.phpied.com/)_  
 - :file_folder: [rocketseat_starter](./book_stoyan)  
