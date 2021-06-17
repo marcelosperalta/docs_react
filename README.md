@@ -8,11 +8,11 @@
 
 <br>
 
-<div>
+<div style="padding-left:5px;background:#e0e0eb">
   <img 
     src="./.github/usa.png"
-    width="16px">
-    <b>english:</b>
+    width="16px" style="border-radius:2px">
+    <b style="color:black">English:</b>
   </img>
 </div>
 
@@ -32,11 +32,12 @@
 
 <br>
 
-<div>
+<div style="padding-left:5px;background:#e0e0eb">
   <img 
     src="./.github/brazil.png"
-    width="16px">
-     <b>portuguese:</b>
+    width="16px"
+    style="border-radius:2px">
+     <b style="color:black">Portuguese:</b>
   </img>
 </div>
 
