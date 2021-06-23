@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="parent">
+        <button id="ok">OK</button>
+        <button id="cancel">Cancel</button>
+    </div>
+    
+    <script>
+        document.getElementById('parent').addEventListener('click',
+            function(event) {
+                var button = event.target;
+
+                // Executa tarefas diferentes de acordo com o botao que foi clicado
+                switch (button.id) {
+                    case 'ok':
+                        console.log("OK");
+                        break;
+                    case 'cancel':
+                        console.log("Cancel");
+                        break;
+                    default:
+                        new Error('Unexpected button ID');
+                };
+            }
+        );
+    </script>
+</body>
+</html>

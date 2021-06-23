@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>State</title>
+    <style>
+        :root {
+            margin: 20px 0 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <!-- minha aplicacao e reenderizada aqui -->
+    </div>
+    <script src="./react/build/react.js"></script>
+    <script src="./react/build/react-dom.js"></script>
+    <script>
+
+        // componente sem estado
+        // stateless
+        // var TextAreaCounter = React.createClass({ 
+        //     propTypes: { 
+        //         text: React.PropTypes.string, 
+        //     }, 
+        //     getDefaultProps: function() { 
+        //         return { 
+        //             text: '', 
+        //         }; 
+        //     }, 
+        //     render: function() { 
+        //         return React.DOM.div(null, 
+        //             React.DOM.textarea({ 
+        //                 defaultValue: this.props.text, 
+        //             }), 
+        //             React.DOM.h3(null, this.props.text.length) 
+        //         ); 
+        //     } 
+        // });
+        // ReactDOM.render( 
+        //     React.createElement(TextAreaCounter, { 
+        //         text: "Bob", 
+        //     }), 
+        //     document.getElementById("app") 
+        // );
+
+        // com estado
+        // stateful
+        var TextAreaCounter = React.createClass({ 
+
+            propTypes: { 
+                // text: React.PropTypes.string, 
+                defaultValue: React.PropTypes.string, 
+            }, 
+
+            // getDefaultProps: function() { 
+            //     return { 
+            //         text: '', 
+            //     }; 
+            // },
+
+            getInitialState: function() {
+                return {
+                    text: this.props.defaultValue,
+                };
+                
+            },
+
+            _textChange: function(ev) {
+                this.setState({
+                    text: ev.target.value,
+                });
+            },
+
+            render: function() { 
+                return React.DOM.div(null, 
+                    React.DOM.textarea({ 
+                        defaultValue: this.state.text,
+                        onChange: this._textChange,
+                    }), 
+                    React.DOM.h3(null, this.state.text.length) 
+                ); 
+            } 
+        });
+
+        // ReactDOM.render( 
+        //     React.createElement(TextAreaCounter, { 
+        //         text: "Bob", 
+        //     }), 
+        //     document.getElementById("app") 
+        // );
+        // Acessando o componente de fora:
+        var myTextAreaCounter = ReactDOM.render( 
+            React.createElement(TextAreaCounter, { 
+                defaultValue: "Bob", 
+            }), 
+            document.getElementById("app") 
+        );
+    </script>
+</body>
+</html>

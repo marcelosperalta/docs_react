@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hello React</title>
+    <meta charset="UTF-8">
+    <style>
+        :root {
+            margin: 20px 0 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <!-- minha aplicacao e reenderizada aqui -->
+    </div>
+    <script src="./react/build/react.js"></script>
+    <script src="./react/build/react-dom.js"></script>
+    <script>
+        // codigo de minha aplicacao
+
+        console.log(Object.keys(React.PropTypes).join('\n'));
+
+        var Component = React.createClass({
+            propTypes: {
+                name: React.PropTypes.string.isRequired,
+            },
+            render:function(){
+                return React.DOM.span(null, "My name is " + this.props.name);
+            }
+        });
+        ReactDOM.render(
+            React.createElement(Component, {
+                name: "Bob",
+            }),
+            document.getElementById("app")
+        )
+        // // 21.06.2021
+        // // Migrating from React.PropTypes
+        // // https://reactjs.org/blog/2017/04/07/react-v15.5.0.html#migrating-from-reactproptypes
+        // // Before (15.4 and below)
+        // import React from 'react';
+
+        // class Component extends React.Component {
+        // render() {
+        //     return <div>{this.props.text}</div>;
+        // }
+        // }
+
+        // Component.propTypes = {
+        // text: React.PropTypes.string.isRequired,
+        // }
+        // // After (15.5)
+        // import React from 'react';
+        // import PropTypes from 'prop-types';
+
+        // class Component extends React.Component {
+        // render() {
+        //     return <div>{this.props.text}</div>;
+        // }
+        // }
+
+        // Component.propTypes = {
+        // text: PropTypes.string.isRequired,
+        // };
+
+        // boilerplate defensivo para campos opcionais:
+        var text = "text" in this.props ? this.props.text : "";
+
+        var Component2 = React.createClass({
+            propTypes: {
+                firstName: React.PropTypes.string.isRequired,
+                middleName: React.PropTypes.string,
+                familyNAme: React.PropTypes.string.isRequired,
+                address: React.PropTypes.string,
+            },
+            getDefaultProps: function() {
+                return {
+                    middleName:'',
+                    address: 'n/a',
+                };
+            },
+            render: function() {/* ... */}
+        });
+    </script>
+</body>
+</html>
