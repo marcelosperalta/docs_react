@@ -30,7 +30,7 @@
 
 - [How to Learn React in 2021: The 7 Skills You Need To Know](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-learn-react-skills-you-need-to-know/amp/)  
 
-<br>
+<hr>
 
 <div style="padding-left:5px;background:#e0e0eb">
   <img 
@@ -42,7 +42,7 @@
 </div>
 
 ### :mortar_board: **[React.org](https://pt-br.reactjs.org/)**  
-- :file_folder: [_reactjsOrg](./_reactjsOrg)  
+- :file_folder: [_reactjsOrg](./_reactjsOrgBR)  
 
 ### :blue_book: **[Primeiros passos com React](https://novatec.com.br/livros/primeiros-passos-com-react/)**  
 - :octocat: [Stoyan Stefanov](https://github.com/stoyan)  
