@@ -4,9 +4,23 @@
 
 # **[React](https://reactjs.org/) study**
 
-## :books: Tutorials:  
+## Summary
 
-<br>
+### English
+
+[React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg)  
+[Academind](https://github.com/marcelosperalta/study_react#mortar_board-academind)  
+[Articles](https://github.com/marcelosperalta/study_react#newspaper-articles)  
+
+### Portuguese
+
+[React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg-1)  
+[Primeiros passos com React](https://github.com/marcelosperalta/study_react#blue_book-primeiros-passos-com-react)  
+[Cod3r Cursos](https://github.com/marcelosperalta/study_react#mortar_board-cod3r-cursos)  
+[Rocketseat](https://github.com/marcelosperalta/study_react#mortar_board-rocketseat)  
+[Filipe Deschamps](https://github.com/marcelosperalta/study_react#tv-filipe-deschamps)  
+
+<hr>
 
 <div style="padding-left:5px;background:#e0e0eb">
   <img 
