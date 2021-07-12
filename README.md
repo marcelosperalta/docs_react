@@ -10,6 +10,7 @@
 
 [React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg)  
 [Academind](https://github.com/marcelosperalta/study_react#mortar_board-academind)  
+[freeCodeCamp](https://github.com/marcelosperalta/study_react#mortar_board-freecodecamp)  
 [Articles](https://github.com/marcelosperalta/study_react#newspaper-articles)  
 
 ### Portuguese
@@ -38,6 +39,12 @@
 - :sunglasses: [Maximilian Schwarzmüller](https://github.com/maxschwarzmueller)  
 - :tv: _[React - The Complete Guide (incl Hooks, React Router, Redux)](https://pro.academind.com/p/react-the-complete-guide-incl-hooks-react-router-redux)_  
 - :file_folder: [course_schwarzmuller](./course_schwarzmuller)  
+
+### :mortar_board: **[freeCodeCamp](https://www.freecodecamp.org/)**  
+- :sunglasses: [Thomas Weibenfalk](https://github.com/weibenfalk)  
+- :link: _[Learn React JS in This Free 7-Hour Course](https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/)_  
+- :tv: _[Learn React JS in This Free 7-Hour Course](https://www.youtube.com/watch?v=nTeuhbP7wdE&t=2s)_  
+- :file_folder: [course_freecodecamp](./course_freecodecamp)  
 
 ### :newspaper: Articles
 
