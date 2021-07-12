@@ -32,6 +32,7 @@
 
 ### :mortar_board: **[React.org](https://reactjs.org/)**  
 - :file_folder: [_reactjsOrg](./_reactjsOrg)  
+- :page_facing_up: [Function and Class Components](https://www.twilio.com/blog/video-chat-react-hooks)  
 
 ### :mortar_board: **[Academind](https://academind.com/)**  
 - :sunglasses: [Maximilian Schwarzmüller](https://github.com/maxschwarzmueller)  

@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import FunctionalComponent from './FunctionalComponent'
+import ClassComponent from './ClassComponent'
 
 ReactDOM.render(
   <React.StrictMode>
@@ -9,8 +10,8 @@ ReactDOM.render(
     <FunctionalComponent />
     <br/>
     <hr/>
-    <strong>Functional Component</strong>
-    <FunctionalComponent />
+    <strong>Class Component</strong>
+    <ClassComponent />
   </React.StrictMode>,
   document.getElementById('root')
 );

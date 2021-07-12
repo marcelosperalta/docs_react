@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Handling state in functional components
 const FunctionalComponent = () => {
     const [count, setCount] = React.useState(0);
   
