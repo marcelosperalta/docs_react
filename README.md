@@ -41,8 +41,8 @@
 ### :newspaper: Articles
 
 - [The React Roadmap: 10 Steps to Become a React Developer in 2021](https://www.freecodecamp.org/news/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021/)  
-
-- [How to Learn React in 2021: The 7 Skills You Need To Know](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-learn-react-skills-you-need-to-know/amp/)  
+- [How to Learn React in 2021: The 7 Skills You Need To Know](https://github.com/marcelosperalta/study_react/tree/master/articles/reed_barger)  
+- [Understanding Functional Components vs. Class Components in React](https://www.twilio.com/blog/react-choose-functional-components)  
 
 <hr>
 
