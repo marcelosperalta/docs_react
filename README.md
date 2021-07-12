@@ -32,7 +32,7 @@
 
 ### :mortar_board: **[React.org](https://reactjs.org/)**  
 - :file_folder: [_reactjsOrg](./_reactjsOrg)  
-- :page_facing_up: [Function and Class Components](https://www.twilio.com/blog/video-chat-react-hooks)  
+- :page_facing_up: [Function and Class Components](https://reactjs.org/docs/components-and-props.html#function-and-class-components)  
 
 ### :mortar_board: **[Academind](https://academind.com/)**  
 - :sunglasses: [Maximilian Schwarzmüller](https://github.com/maxschwarzmueller)  
@@ -43,7 +43,7 @@
 
 - [The React Roadmap: 10 Steps to Become a React Developer in 2021](https://www.freecodecamp.org/news/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021/)  
 - [How to Learn React in 2021: The 7 Skills You Need To Know](https://github.com/marcelosperalta/study_react/tree/master/articles/reed_barger)  
-- [Understanding Functional Components vs. Class Components in React](https://www.twilio.com/blog/react-choose-functional-components)  
+- [Understanding Functional Components vs. Class Components in React](https://github.com/marcelosperalta/study_react/tree/master/articles/shiori_yamazaki)  
 
 <hr>
 
