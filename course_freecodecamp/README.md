@@ -7,7 +7,3 @@ by [Thomas Weibenfalk](https://github.com/weibenfalk)
 
 :link: https://www.themoviedb.org/  
 
-#### **The Movie Database (TMDb) API**
-
-:link: https://www.themoviedb.org/  
-
