@@ -39,6 +39,8 @@ npm i --save prop-types
 
 #### .env
 
+[Adding Custom Environment Variables](https://create-react-app.dev/docs/adding-custom-environment-variables/)  
+
 Create ```.env``` file in the root folder:  
 
 ```
