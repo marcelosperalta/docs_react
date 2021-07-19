@@ -12,6 +12,7 @@ by [Thomas Weibenfalk](https://github.com/weibenfalk)
 - [Node.js](https://nodejs.org/en/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Create React App](https://create-react-app.dev/)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 #### Dependencies
 
@@ -67,4 +68,10 @@ Add the text _.env_ to the ```.gitignore``` to avoid the upload of the file to y
 /.pnp
 .pnp.js
 ...
+```
+
+#### Run
+
+```
+npm start
 ```
