@@ -6,20 +6,32 @@
 
 ## :arrow_heading_down: Table of Contents
 
-### English
+[Libraries](https://github.com/marcelosperalta/study_react#libraries)  
+
+### _English_
 
 [React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg)  
 [Academind](https://github.com/marcelosperalta/study_react#mortar_board-academind)  
 [freeCodeCamp](https://github.com/marcelosperalta/study_react#mortar_board-freecodecamp)  
 [Articles](https://github.com/marcelosperalta/study_react#newspaper-articles)  
 
-### Portuguese
+### _Portuguese_
 
 [React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg-1)  
 [Primeiros passos com React](https://github.com/marcelosperalta/study_react#blue_book-primeiros-passos-com-react)  
 [Cod3r Cursos](https://github.com/marcelosperalta/study_react#mortar_board-cod3r-cursos)  
 [Rocketseat](https://github.com/marcelosperalta/study_react#mortar_board-rocketseat)  
 [Filipe Deschamps](https://github.com/marcelosperalta/study_react#tv-filipe-deschamps)  
+
+<hr>
+
+### :closed_book: **Libraries**
+
+#### Forms
+
+- [Unform](https://unform.dev/)
+- [Formik](https://formik.org/)
+- [Redux Form](https://redux-form.com/8.3.0/)
 
 <hr>
 
