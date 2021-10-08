@@ -25,7 +25,7 @@
 
 <hr>
 
-### :closed_book: **Libraries**
+### Libraries
 
 #### Forms
 
