@@ -31,7 +31,7 @@
 
 - [Unform](https://unform.dev/)
 - [Formik](https://formik.org/)
-- [Redux Form](https://redux-form.com/8.3.0/)
+- [Redux Form](https://redux-form.com/)
 
 <hr>
 
