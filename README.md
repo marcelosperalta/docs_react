@@ -33,7 +33,7 @@
 - [Formik](https://formik.org/)
 - [Redux Form](https://redux-form.com/)
 
-#### Static Typing
+#### Types
 
 - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
