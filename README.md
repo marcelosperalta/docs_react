@@ -33,6 +33,10 @@
 - [Formik](https://formik.org/)
 - [Redux Form](https://redux-form.com/)
 
+#### Static Typing
+
+- [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+
 <hr>
 
 <div style="padding-left:5px;background:#e0e0eb">
