@@ -107,4 +107,4 @@
 ### :tv: **[Fábio Vedovelli](https://www.youtube.com/c/FabioVedovelli/)**
 - :octocat: [Fábio Vedovelli](https://github.com/vedovelli)
 - :link: _[Fábio Vedovelli](https://www.javascript.tv.br/)_
-- :file_folder: [youtube_felipe_deschamps](./course_vedovelli)
+- :file_folder: [course_vedovelli](./course_vedovelli)
