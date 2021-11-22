@@ -11,7 +11,7 @@ describe('App', () => {
     server.shutdown();
   });
 
-  test('test test ', () => {
+  test('testTest', () => {
     const users = server.createList("user", 10);
 
     console.log(JSON.parse(JSON.stringify(users)));
