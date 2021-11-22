@@ -25,7 +25,7 @@
 
 ### Steps:
 
-#### _create react-app_  
+#### _Create React App_  
 
 ````
 yarn create react-app sexy
@@ -88,7 +88,7 @@ ReactDOM.render(<App />, document.getElementById("root"));
 
 #### :file_folder: src > :page_facing_up: App.test.js  
 
-*``Create React App`` uses Jest as its test runner.  
+*``Create React App`` uses **Jest** as its test runner.  
 
 on Terminal (from ``sexy`` folder): `yarn test`  
 
