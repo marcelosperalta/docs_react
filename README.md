@@ -22,6 +22,7 @@
 [Cod3r Cursos](https://github.com/marcelosperalta/study_react#mortar_board-cod3r-cursos)  
 [Rocketseat](https://github.com/marcelosperalta/study_react#mortar_board-rocketseat)  
 [Filipe Deschamps](https://github.com/marcelosperalta/study_react#tv-filipe-deschamps)  
+[Fábio Vedovelli](https://github.com/marcelosperalta/study_react#tv-f%C3%A1bio-vedovelli)  
 
 <hr>
 
