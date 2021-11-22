@@ -44,7 +44,7 @@
 - :sunglasses: [Thomas Weibenfalk](https://github.com/weibenfalk)  
 - :link: _[Learn React JS in This Free 7-Hour Course](https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/)_  
 - :tv: _[Learn React JS in This Free 7-Hour Course](https://www.youtube.com/watch?v=nTeuhbP7wdE&t=2s)_  
-- :file_folder: [course_freecodecamp](./course_freecodecamp)  
+- :file_folder: [course_freecodecamp](./course_fcc)  
 
 ### :newspaper: Articles
 
