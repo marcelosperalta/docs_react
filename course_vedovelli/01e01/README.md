@@ -25,7 +25,7 @@
 
 ### Steps:
 
-_create react-app_  
+#### _create react-app_  
 
 ````
 yarn create react-app sexy
@@ -39,7 +39,7 @@ cd sexy
 yarn start
 ````
 
-_Axios_  
+#### _Axios_  
 
 ````
 yarn add axios
@@ -48,7 +48,7 @@ yarn add axios
 _native alternative:_ [fetch()](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)  
 
 
-:file_folder: service > :page_facing_up: api.js  
+#### :file_folder: service > :page_facing_up: api.js  
 
 ```
 import axios from "axios";
@@ -58,7 +58,7 @@ export const http = axios.create({
 });
 ```
 
-_API mocking library [Mirage JS](https://miragejs.com/)_  
+#### _API mocking library [Mirage JS](https://miragejs.com/)_  
 
 [How it works](https://miragejs.com/docs/getting-started/introduction/)  
 
@@ -86,9 +86,9 @@ if (process.env.NODE_ENV === "development") {
 ReactDOM.render(<App />, document.getElementById("root"));
 ```
 
-:file_folder: src > :page_facing_up: App.test.js  
+#### :file_folder: src > :page_facing_up: App.test.js  
 
 *``Create React App`` uses Jest as its test runner.  
 
-on Terminal (from _sexy_ folder): `yarn test`  
+on Terminal (from ``sexy`` folder): `yarn test`  
 
