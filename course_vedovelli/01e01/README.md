@@ -11,9 +11,13 @@
     &nbsp;&nbsp;&nbsp;
     <span><strong>Axios</strong></span>
     &nbsp;&nbsp;&nbsp;
-    <span>Mirage JS</span>
-    &nbsp;&nbsp;&nbsp;
     <span><a href="https://github.com/Rich-Harris/degit#readme">degit</a></span>
+    &nbsp;&nbsp;&nbsp;
+    <span><strong>Mirage JS</strong></span>
+    &nbsp;&nbsp;&nbsp;
+    <span><a href="https://github.com/Marak/Faker.js#readme">faker.js</a></span>
+    &nbsp;&nbsp;&nbsp;
+    
 </div>
 
 <hr/>
@@ -61,4 +65,8 @@ _API mocking library [Mirage JS](https://miragejs.com/)_
 
 ```
 cd src && npx degit vedovelli/miragejs-starter-kit miragejs
+```
+
+```
+yard add -D miragejs faker
 ```
