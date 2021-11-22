@@ -4,6 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+if (process.env.NODE_ENV === "development") {
+  // You can't use import in a conditional so we're using require() so no
+  // Mirage JS code will ever reach your production build.
+  require('./miragejs/server').makeServer();
+}
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

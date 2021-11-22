@@ -7,16 +7,17 @@
 ### Tools:
 
 <div align="center">
-    <span>Create React App</span>
+    <a href="https://create-react-app.dev/">Create React App</a>
     &nbsp;&nbsp;&nbsp;
-    <span><strong>Axios</strong></span>
+    <a href="https://axios-http.com/">Axios</a>
     &nbsp;&nbsp;&nbsp;
-    <span><a href="https://github.com/Rich-Harris/degit#readme">degit</a></span>
+    <a href="https://github.com/Rich-Harris/degit#readme">degit</a>
     &nbsp;&nbsp;&nbsp;
-    <span><strong>Mirage JS</strong></span>
+    <a href="https://miragejs.com/">Mirage JS</a>
     &nbsp;&nbsp;&nbsp;
-    <span><a href="https://github.com/Marak/Faker.js#readme">faker.js</a></span>
+    <a href="https://github.com/Marak/Faker.js#readme">faker.js</a>
     &nbsp;&nbsp;&nbsp;
+    <a href="https://jestjs.io/">Jest</a>
     
 </div>
 
@@ -47,7 +48,7 @@ yarn add axios
 _native alternative:_ [fetch()](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)  
 
 
-_ :file_folder: service > :page_facing_up: api.js_  
+:file_folder: service > :page_facing_up: api.js  
 
 ```
 import axios from "axios";
@@ -68,5 +69,26 @@ cd src && npx degit vedovelli/miragejs-starter-kit miragejs
 ```
 
 ```
-yard add -D miragejs faker
+yarn add -D miragejs faker
 ```
+
+```
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+
+if (process.env.NODE_ENV === "development") {
+  // You can't use import in a conditional so we're using require() so no
+  // Mirage JS code will ever reach your production build.
+  require('./miragejs/server').makeServer();
+}
+
+ReactDOM.render(<App />, document.getElementById("root"));
+```
+
+:file_folder: src > :page_facing_up: App.test.js  
+
+*``Create React App`` uses Jest as its test runner.  
+
+on Terminal (from _sexy_ folder): `yarn test`  
+

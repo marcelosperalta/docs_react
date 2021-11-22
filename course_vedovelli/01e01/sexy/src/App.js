@@ -9,7 +9,7 @@ function App() {
       .then(({ data }) => setUsers(data.users))
   }, []);
 
-  return <div>{users}</div>
+  return <div>{JSON.stringify(users)}</div>
 }
 
 export default App;
