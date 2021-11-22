@@ -7,11 +7,11 @@
 ### Tools:
 
 <div align="center">
-    <span color="red">Create React App</span>
+    <span style="color:blue;">Create React App</span>
     &nbsp;&nbsp;&nbsp;
-    <span color="blue">axios</span>
+    <span style="color:red;">axios</span>
     &nbsp;&nbsp;&nbsp;
-    <span color="red">Mirage JS</span>
+    <span style="color:blue;">Mirage JS</span>
 </div>
 
 <hr/>
