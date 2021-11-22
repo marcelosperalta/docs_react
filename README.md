@@ -87,18 +87,23 @@
 - :link: _[Stoyan's phpied.com](https://www.phpied.com/)_  
 - :file_folder: [book_stoyan](./book_stoyan)  
 
-### :mortar_board: **[Cod3r Cursos](https://www.cod3r.com.br/)**  
-- :octocat: [Leonardo Moura Leitão](https://github.com/leonardomleitao)  
-- :tv: _[React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!](https://www.youtube.com/watch?v=XQxitgyZ_S4)_  
-- :tv: _[React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!](https://www.youtube.com/watch?v=GJ8Vm-h0V8I)_  
-- :file_folder: [course_cod3r](./course_cod3r)  
+### :mortar_board: **[Cod3r Cursos](https://www.cod3r.com.br/)**
+- :octocat: [Leonardo Moura Leitão](https://github.com/leonardomleitao)
+- :tv: _[React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!](https://www.youtube.com/watch?v=XQxitgyZ_S4)_
+- :tv: _[React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!](https://www.youtube.com/watch?v=GJ8Vm-h0V8I)_
+- :file_folder: [course_cod3r](./course_cod3r)
 
-### :mortar_board: **[Rocketseat](https://rocketseat.com.br/)**  
-- :octocat: [Diego Fernandes](https://github.com/diego3g)  
-- :tv: _[Starter > ReactJS](https://app.rocketseat.com.br/node/curso-react-js)_  
-- :file_folder: [course_rocketseat_starter](./course_rocketseat_starter)  
+### :mortar_board: **[Rocketseat](https://rocketseat.com.br/)**
+- :octocat: [Diego Fernandes](https://github.com/diego3g)
+- :tv: _[Starter > ReactJS](https://app.rocketseat.com.br/node/curso-react-js)_
+- :file_folder: [course_rocketseat_starter](./course_rocketseat_starter)
 
-### :tv: **[Filipe Deschamps](https://www.youtube.com/FilipeDeschamps/)**  
-- :octocat: [Filipe Deschamps](https://github.com/filipedeschamps/)  
-- :link: _[Filipe Deschamps](https://filipedeschamps.com.br/)_  
-- :file_folder: [youtube_felipe_deschamps](./youtube_felipe_deschamps)  
+### :tv: **[Filipe Deschamps](https://www.youtube.com/FilipeDeschamps/)**
+- :octocat: [Filipe Deschamps](https://github.com/filipedeschamps/)
+- :link: _[Filipe Deschamps](https://filipedeschamps.com.br/)_
+- :file_folder: [youtube_felipe_deschamps](./youtube_felipe_deschamps)
+
+### :tv: **[Fábio Vedovelli](https://www.youtube.com/c/FabioVedovelli/)**
+- :octocat: [Fábio Vedovelli](https://github.com/vedovelli)
+- :link: _[Fábio Vedovelli](https://www.javascript.tv.br/)_
+- :file_folder: [youtube_felipe_deschamps](./course_vedovelli)
