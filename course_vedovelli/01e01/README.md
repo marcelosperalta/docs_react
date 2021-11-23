@@ -90,5 +90,5 @@ ReactDOM.render(<App />, document.getElementById("root"));
 
 *``Create React App`` uses **Jest** as its test runner.  
 
-on Terminal (from ``sexy`` folder): `yarn test`  
+on Terminal (from ``src`` folder): `yarn test`  
 

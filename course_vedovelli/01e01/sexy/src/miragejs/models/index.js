@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 /*
  * Mirage JS guide on Models: https://miragejs.com/docs/data-layer/models
  */
@@ -12,11 +13,6 @@ import { Model, hasMany, belongsTo } from 'miragejs';
  * Mirage JS guide on Relationships: https://miragejs.com/docs/main-concepts/relationships/
  */
 export default {
-  user: Model.extend({
-    messages: hasMany(),
-  }),
-  messages: Model.extend({
-    user: belongsTo(),
-  }),
+  user: Model,
   product: Model,
 };
