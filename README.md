@@ -38,6 +38,12 @@
 
 - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
+### State management libraries
+
+- [Redux](https://redux.js.org/)
+- [MobX](https://mobx.js.org/)
+- [Recoil](https://recoiljs.org/)
+
 <hr>
 
 <div style="padding-left:5px;background:#e0e0eb">
