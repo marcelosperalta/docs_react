@@ -38,6 +38,11 @@
     * [MobX](https://mobx.js.org/)
     * [Recoil](https://recoiljs.org/)
 
+  * Testing (end-to-end tests, integration tests, and unit tests)
+    * [Jest](https://jestjs.io/)
+    * [Enzyme](https://enzymejs.github.io/enzyme/)
+    * [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+
 <hr>
 
 ### :newspaper: Articles
