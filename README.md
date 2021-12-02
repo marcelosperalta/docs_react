@@ -6,7 +6,7 @@
 
 ## :arrow_heading_down: Table of Contents
 
-* [Libraries](https://github.com/marcelosperalta/docs_react#books-libraries)
+* [Tools](https://github.com/marcelosperalta/docs_react#toolbox-tools)
 * [Articles](https://github.com/marcelosperalta/docs_react#newspaper-articles)
 * [Courses](https://github.com/marcelosperalta/docs_react#mortar_board-courses)
   * _English_
