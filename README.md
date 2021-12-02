@@ -47,7 +47,7 @@
 ### :mortar_board: Courses
 
 <div style="padding-left:5px;background:#e0e0eb">
-  &nbsp;
+  &nbsp;&nbsp;
   <img 
     src="./.github/usa.png"
     width="16px" style="border-radius:2px">
