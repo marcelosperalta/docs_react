@@ -21,6 +21,8 @@
     * [Filipe Deschamps](https://github.com/marcelosperalta/docs_react#tv-filipe-deschamps)
     * [Fábio Vedovelli](https://github.com/marcelosperalta/docs_react#tv-f%C3%A1bio-vedovelli)
 
+<hr>
+
 ### :books: Libraries
 
   * Forms
@@ -35,6 +37,8 @@
     * [Redux](https://redux.js.org/)
     * [MobX](https://mobx.js.org/)
     * [Recoil](https://recoiljs.org/)
+
+<hr>
 
 ### :newspaper: Articles
 
