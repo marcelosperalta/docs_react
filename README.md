@@ -6,23 +6,23 @@
 
 ## :arrow_heading_down: Table of Contents
 
-[Libraries](https://github.com/marcelosperalta/study_react#libraries)  
-[Articles](https://github.com/marcelosperalta/study_react#newspaper-articles)  
+* [Libraries](https://github.com/marcelosperalta/study_react#libraries)  
+* [Articles](https://github.com/marcelosperalta/study_react#newspaper-articles)  
 
-### Courses
+* [Courses](https://github.com/marcelosperalta/docs_react#courses-1)  
 
-#### _English_
-[React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg)  
-[Academind](https://github.com/marcelosperalta/study_react#mortar_board-academind)  
-[freeCodeCamp](https://github.com/marcelosperalta/study_react#mortar_board-freecodecamp)  
+  * _English_
+    * [React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg)  
+    * [Academind](https://github.com/marcelosperalta/study_react#mortar_board-academind)  
+    * [freeCodeCamp](https://github.com/marcelosperalta/study_react#mortar_board-freecodecamp)  
 
-#### _Portuguese_
-[React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg-1)  
-[Primeiros passos com React](https://github.com/marcelosperalta/study_react#blue_book-primeiros-passos-com-react)  
-[Cod3r Cursos](https://github.com/marcelosperalta/study_react#mortar_board-cod3r-cursos)  
-[Rocketseat](https://github.com/marcelosperalta/study_react#mortar_board-rocketseat)  
-[Filipe Deschamps](https://github.com/marcelosperalta/study_react#tv-filipe-deschamps)  
-[Fábio Vedovelli](https://github.com/marcelosperalta/study_react#tv-f%C3%A1bio-vedovelli)  
+  * _Portuguese_
+    * [React.org](https://github.com/marcelosperalta/study_react#mortar_board-reactorg-1)  
+    * [Primeiros passos com React](https://github.com/marcelosperalta/study_react#blue_book-primeiros-passos-com-react)  
+    * [Cod3r Cursos](https://github.com/marcelosperalta/study_react#mortar_board-cod3r-cursos)  
+    * [Rocketseat](https://github.com/marcelosperalta/study_react#mortar_board-rocketseat)  
+    * [Filipe Deschamps](https://github.com/marcelosperalta/study_react#tv-filipe-deschamps)  
+    * [Fábio Vedovelli](https://github.com/marcelosperalta/study_react#tv-f%C3%A1bio-vedovelli)  
 
 <hr>
 
@@ -52,7 +52,7 @@
 
 <hr>
 
-### Courses
+### :mortar_board: Courses
 
 <div style="padding-left:5px;background:#e0e0eb">
   <img 
