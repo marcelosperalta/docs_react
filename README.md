@@ -48,11 +48,11 @@
 
 <div style="padding-left:5px;background:#e0e0eb">
   &nbsp;&nbsp;
-  <img 
-    src="./.github/usa.png"
-    width="16px" style="border-radius:2px">
-    <b style="color:black">English:</b>
-  </img>
+              <img 
+                src="./.github/usa.png"
+                width="16px" style="border-radius:2px">
+                <b style="color:black">English:</b>
+              </img>
 </div>
 
   * :mortar_board: **[React.org](https://reactjs.org/)**  
@@ -71,12 +71,13 @@
     * :file_folder: [course_freecodecamp](./course_fcc)  
 
 <div style="padding-left:5px;background:#e0e0eb">
-  <img 
-    src="./.github/brazil.png"
-    width="16px"
-    style="border-radius:2px">
-     <b style="color:black">Portuguese:</b>
-  </img>
+  &nbsp;&nbsp;
+              <img 
+                src="./.github/brazil.png"
+                width="16px"
+                style="border-radius:2px">
+                <b style="color:black">Portuguese:</b>
+              </img>
 </div>
 
   * :mortar_board: **[React.org](https://pt-br.reactjs.org/)**  
