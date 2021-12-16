@@ -7,6 +7,11 @@
 ## :arrow_heading_down: Table of Contents
 
 * [Tools](https://github.com/marcelosperalta/docs_react#toolbox-tools)
+  * [Forms](https://github.com/marcelosperalta/docs_react#forms)
+  * [Modal dialog (modal window)](https://github.com/marcelosperalta/docs_react#modal-dialog-modal-window)
+  * [State management libraries](https://github.com/marcelosperalta/docs_react#state-management-libraries)
+  * [Types](https://github.com/marcelosperalta/docs_react#types)
+  * [Testing (end-to-end tests, integration tests, and unit tests)](https://github.com/marcelosperalta/docs_react#testing-end-to-end-tests-integration-tests-and-unit-tests)
 * [Articles](https://github.com/marcelosperalta/docs_react#newspaper-articles)
 * [Courses](https://github.com/marcelosperalta/docs_react#mortar_board-courses)
   * _English_
