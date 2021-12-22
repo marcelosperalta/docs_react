@@ -76,9 +76,8 @@
 <div style="padding-left:5px;background:#e0e0eb">
   &nbsp;&nbsp;
               <img 
-                src="./.github/usa.png"
-                width="16px" style="border-radius:2px">
-                <b style="color:black">English:</b>
+                src="./.github/usa.png" width="16px">
+                <b>English</b>
               </img>
 </div>
 
@@ -100,13 +99,12 @@
 * :tv: _[Learn React JS in This Free 7-Hour Course](https://www.youtube.com/watch?v=nTeuhbP7wdE&t=2s)_
 * :file_folder: [course_freecodecamp](./course_fcc)
 
+<br>
+
 <div style="padding-left:5px;background:#e0e0eb">
   &nbsp;&nbsp;
-              <img 
-                src="./.github/brazil.png"
-                width="16px"
-                style="border-radius:2px">
-                <b style="color:black">Portuguese:</b>
+              <img src="./.github/brazil.png" width="16px">
+                <b>Portuguese</b>
               </img>
 </div>
 
