@@ -66,6 +66,8 @@
 
 * [Next.js](https://nextjs.org/)
 * [Remix](https://remix.run/)
+* [Blitz](https://blitzjs.com/)
+* [RedwoodJS](https://redwoodjs.com/)
 
 <hr>
 
