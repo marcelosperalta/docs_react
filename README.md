@@ -13,6 +13,7 @@
   * [State management libraries](https://github.com/marcelosperalta/docs_react#state-management-libraries)
   * [Types](https://github.com/marcelosperalta/docs_react#types)
   * [Testing (end-to-end tests, integration tests, and unit tests)](https://github.com/marcelosperalta/docs_react#testing-end-to-end-tests-integration-tests-and-unit-tests)
+  * [Framework]()
 * [Articles](https://github.com/marcelosperalta/docs_react#newspaper-articles)
 * [Courses](https://github.com/marcelosperalta/docs_react#mortar_board-courses)
   * _English_
@@ -60,6 +61,11 @@
 * [Jest](https://jestjs.io/)
 * [Enzyme](https://enzymejs.github.io/enzyme/)
 * [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+
+### Framework
+
+* [Next.js](https://nextjs.org/)
+* [Remix](https://remix.run/)
 
 <hr>
 
