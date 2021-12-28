@@ -61,6 +61,7 @@
 * [Jest](https://jestjs.io/)
 * [Enzyme](https://enzymejs.github.io/enzyme/)
 * [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+* [@testing-library](https://testing-library.com/)
 
 ### Framework
 
