@@ -6,6 +6,7 @@
 
 ## :arrow_heading_down: Table of Contents
 
+* [Glossary]()
 * [Tools](https://github.com/marcelosperalta/docs_react#toolbox-tools)
   * [UI library](https://github.com/marcelosperalta/docs_react#ui-library)
   * [Forms](https://github.com/marcelosperalta/docs_react#forms)
@@ -27,6 +28,14 @@
     * [Rocketseat](https://github.com/marcelosperalta/docs_react#mortar_board-rocketseat)
     * [Filipe Deschamps](https://github.com/marcelosperalta/docs_react#tv-filipe-deschamps)
     * [Fábio Vedovelli](https://github.com/marcelosperalta/docs_react#tv-f%C3%A1bio-vedovelli)
+
+<hr>
+
+## :mag: Glossary
+
+**term** | definition
+------------ | -------------
+[Prop drilling](https://kentcdodds.com/blog/prop-drilling#what-is-prop-drilling) | Prop drilling (also called "threading") refers to the process you have to go through to get data to parts of the React Component tree.
 
 <hr>
 
@@ -74,9 +83,15 @@
 
 ## :newspaper: Articles
 
-* [The React Roadmap: 10 Steps to Become a React Developer in 2021](https://www.freecodecamp.org/news/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021/)
-* [How to Learn React in 2021: The 7 Skills You Need To Know](https://github.com/marcelosperalta/study_react/tree/master/articles/reed_barger)
-* [Understanding Functional Components vs. Class Components in React](https://github.com/marcelosperalta/study_react/tree/master/articles/shiori_yamazaki)
+* \#roadmap
+  * [The React Roadmap: 10 Steps to Become a React Developer in 2021](https://www.freecodecamp.org/news/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021/)
+  * [How to Learn React in 2021: The 7 Skills You Need To Know](https://github.com/marcelosperalta/study_react/tree/master/articles/reed_barger)
+
+* \#components \#functional \#class
+  * [Understanding Functional Components vs. Class Components in React](https://github.com/marcelosperalta/study_react/tree/master/articles/shiori_yamazaki)
+
+* \#propdrilling
+  * [Prop drilling](https://kentcdodds.com/blog/prop-drilling)
 
 <hr>
 
