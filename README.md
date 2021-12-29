@@ -35,7 +35,9 @@
 
 **term** | definition
 ------------ | -------------
+[Context](https://reactjs.org/docs/context.html) | Context provides a way to pass data through the component tree without having to pass **props** (which stands for properties) down manually at every level.
 [Prop drilling](https://kentcdodds.com/blog/prop-drilling#what-is-prop-drilling) | Prop drilling (also called "threading") refers to the process you have to go through to get data to parts of the React Component tree.
+[Render Props](https://reactjs.org/docs/render-props.html) | The term **render prop** refers to a technique for sharing code between React components using a prop whose value is a function.
 
 <hr>
 
