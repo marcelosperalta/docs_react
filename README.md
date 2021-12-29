@@ -6,7 +6,7 @@
 
 ## :arrow_heading_down: Table of Contents
 
-* [Glossary]()
+* [Glossary](https://github.com/marcelosperalta/docs_react#mag-glossary)
 * [Tools](https://github.com/marcelosperalta/docs_react#toolbox-tools)
   * [UI library](https://github.com/marcelosperalta/docs_react#ui-library)
   * [Forms](https://github.com/marcelosperalta/docs_react#forms)
