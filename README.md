@@ -15,7 +15,7 @@
   * [Types](https://github.com/marcelosperalta/docs_react#types)
   * [Testing (end-to-end tests, integration tests, and unit tests)](https://github.com/marcelosperalta/docs_react#testing-end-to-end-tests-integration-tests-and-unit-tests)
   * [Framework](https://github.com/marcelosperalta/docs_react#framework)
-  * [Build UI components]()
+  * [Build UI components](https://github.com/marcelosperalta/docs_react#build-ui-components)
 * [Articles](https://github.com/marcelosperalta/docs_react#newspaper-articles)
 * [Courses](https://github.com/marcelosperalta/docs_react#mortar_board-courses)
   * _English_
