@@ -11,6 +11,7 @@
   * [UI library](https://github.com/marcelosperalta/docs_react#ui-library)
   * [Forms](https://github.com/marcelosperalta/docs_react#forms)
   * [Modal dialog (modal window)](https://github.com/marcelosperalta/docs_react#modal-dialog-modal-window)
+  * [Internationalization and localization]()
   * [State management libraries](https://github.com/marcelosperalta/docs_react#state-management-libraries)
   * [Types](https://github.com/marcelosperalta/docs_react#types)
   * [Testing (end-to-end tests, integration tests, and unit tests)](https://github.com/marcelosperalta/docs_react#testing-end-to-end-tests-integration-tests-and-unit-tests)
@@ -57,6 +58,11 @@
 ### Modal dialog (modal window)
 
 * [react-modal](https://github.com/reactjs/react-modal)
+
+### Internationalization and localization
+
+* [react-i18next](https://react.i18next.com/)
+* [react-intl](https://formatjs.io/docs/react-intl/#the-react-intl-package)
 
 ### State management libraries
 
