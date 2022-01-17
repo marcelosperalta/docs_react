@@ -61,6 +61,7 @@
 
 ### Internationalization and localization
 
+* [LinguiJS](https://lingui.js.org/tutorials/react.html)
 * [react-i18next](https://react.i18next.com/)
 * [react-intl](https://formatjs.io/docs/react-intl/#the-react-intl-package)
 
