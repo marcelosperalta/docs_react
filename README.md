@@ -70,6 +70,7 @@
 * [Redux](https://redux.js.org/)
 * [MobX](https://mobx.js.org/)
 * [Recoil](https://recoiljs.org/)
+* [zustand](https://github.com/pmndrs/zustand)
 
 ### Types
 
@@ -92,6 +93,7 @@
 ### Build UI components
 
 * [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
+* [Chakra UI](https://chakra-ui.com/)
 
 <hr>
 
