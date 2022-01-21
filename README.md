@@ -67,7 +67,7 @@
 
 ### State management libraries
 
-* [Redux](https://redux.js.org/)
+* [Redux](https://react-redux.js.org/)
 * [MobX](https://mobx.js.org/)
 * [Recoil](https://recoiljs.org/)
 * [zustand](https://github.com/pmndrs/zustand)
