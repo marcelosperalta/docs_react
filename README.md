@@ -10,6 +10,7 @@
 * [Tools](https://github.com/marcelosperalta/docs_react#toolbox-tools)
   * [Boilerplate](https://github.com/marcelosperalta/docs_react#boilerplate)
   * [Module Bundler](https://github.com/marcelosperalta/docs_react#module-bundler)
+  * [Routing]()
   * [UI library](https://github.com/marcelosperalta/docs_react#ui-library)
   * [Forms](https://github.com/marcelosperalta/docs_react#forms)
   * [Modal dialog (modal window)](https://github.com/marcelosperalta/docs_react#modal-dialog-modal-window)
@@ -55,6 +56,10 @@
 
 * [Vite](https://vitejs.dev/)
 * [Snowpack](https://www.snowpack.dev/)
+
+### Routing
+
+* [React Router](https://reactrouter.com/)
 
 ### UI library
 
