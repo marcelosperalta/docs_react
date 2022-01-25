@@ -8,6 +8,8 @@
 
 * [Glossary](https://github.com/marcelosperalta/docs_react#mag-glossary)
 * [Tools](https://github.com/marcelosperalta/docs_react#toolbox-tools)
+  * [Boilerplate]()
+  * [Module Bundler]()
   * [UI library](https://github.com/marcelosperalta/docs_react#ui-library)
   * [Forms](https://github.com/marcelosperalta/docs_react#forms)
   * [Modal dialog (modal window)](https://github.com/marcelosperalta/docs_react#modal-dialog-modal-window)
@@ -44,6 +46,15 @@
 <hr>
 
 ## :toolbox: Tools
+
+### Boilerplate
+
+* [Create React App](https://create-react-app.dev/)
+
+### Module Bundler
+
+* [Vite](https://vitejs.dev/)
+* [Snowpack](https://www.snowpack.dev/)
 
 ### UI library
 
