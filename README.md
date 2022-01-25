@@ -11,15 +11,17 @@
   * [Boilerplate](https://github.com/marcelosperalta/docs_react#boilerplate)
   * [Module Bundler](https://github.com/marcelosperalta/docs_react#module-bundler)
   * [Routing](https://github.com/marcelosperalta/docs_react#routing)
+  * [CSS-in-JS]()
+  * [Build UI components](https://github.com/marcelosperalta/docs_react#build-ui-components)
   * [UI library](https://github.com/marcelosperalta/docs_react#ui-library)
   * [Forms](https://github.com/marcelosperalta/docs_react#forms)
   * [Modal dialog (modal window)](https://github.com/marcelosperalta/docs_react#modal-dialog-modal-window)
   * [Internationalization and localization](https://github.com/marcelosperalta/docs_react#internationalization-and-localization)
   * [State management libraries](https://github.com/marcelosperalta/docs_react#state-management-libraries)
+  * [Data Fetching]()
   * [Types](https://github.com/marcelosperalta/docs_react#types)
   * [Testing (end-to-end tests, integration tests, and unit tests)](https://github.com/marcelosperalta/docs_react#testing-end-to-end-tests-integration-tests-and-unit-tests)
   * [Framework](https://github.com/marcelosperalta/docs_react#framework)
-  * [Build UI components](https://github.com/marcelosperalta/docs_react#build-ui-components)
 * [Articles](https://github.com/marcelosperalta/docs_react#newspaper-articles)
 * [Courses](https://github.com/marcelosperalta/docs_react#mortar_board-courses)
   * _English_
@@ -61,6 +63,17 @@
 
 * [React Router](https://reactrouter.com/)
 
+### CSS-in-JS
+
+* [styled-components](https://styled-components.com/)
+* [Stitches](https://stitches.dev/)
+
+### Build UI components
+
+* [Radix](https://www.radix-ui.com/)
+* [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
+* [Chakra UI](https://chakra-ui.com/)
+
 ### UI library
 
 * [Material-UI](https://mui.com/)
@@ -88,6 +101,15 @@
 * [Recoil](https://recoiljs.org/)
 * [zustand](https://github.com/pmndrs/zustand)
 
+### Data Fetching
+
+* [SWR](https://swr.vercel.app/)
+* [React Query](https://react-query.tanstack.com/)
+* [GraphQL](https://graphql.org/)
+  * [uRQL](https://formidable.com/open-source/urql/)
+  * [Apollo Client](https://www.apollographql.com/docs/react/)
+  * [Relay](https://relay.dev/)
+
 ### Types
 
 * [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
@@ -98,6 +120,7 @@
 * [Enzyme](https://enzymejs.github.io/enzyme/)
 * [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 * [@testing-library](https://testing-library.com/)
+* [Cypress](https://www.cypress.io/)
 
 ### Framework
 
@@ -105,11 +128,6 @@
 * [Remix](https://remix.run/)
 * [Blitz](https://blitzjs.com/)
 * [RedwoodJS](https://redwoodjs.com/)
-
-### Build UI components
-
-* [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
-* [Chakra UI](https://chakra-ui.com/)
 
 <hr>
 
