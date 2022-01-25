@@ -10,7 +10,7 @@
 * [Tools](https://github.com/marcelosperalta/docs_react#toolbox-tools)
   * [Boilerplate](https://github.com/marcelosperalta/docs_react#boilerplate)
   * [Module Bundler](https://github.com/marcelosperalta/docs_react#module-bundler)
-  * [Routing]()
+  * [Routing](https://github.com/marcelosperalta/docs_react#routing)
   * [UI library](https://github.com/marcelosperalta/docs_react#ui-library)
   * [Forms](https://github.com/marcelosperalta/docs_react#forms)
   * [Modal dialog (modal window)](https://github.com/marcelosperalta/docs_react#modal-dialog-modal-window)
