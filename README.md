@@ -24,7 +24,7 @@
   * [Fake / Mock GraphQL API](https://github.com/marcelosperalta/docs_react#fake--mock-graphql-api)
   * [Types](https://github.com/marcelosperalta/docs_react#types)
   * [Testing (end-to-end tests, integration tests, and unit tests)](https://github.com/marcelosperalta/docs_react#testing-end-to-end-tests-integration-tests-and-unit-tests)
-  * [Custom notifications]()
+  * [Custom notifications](https://github.com/marcelosperalta/docs_react#custom-notifications)
   * [Framework](https://github.com/marcelosperalta/docs_react#framework)
 * [Articles](https://github.com/marcelosperalta/docs_react#newspaper-articles)
 * [Courses](https://github.com/marcelosperalta/docs_react#mortar_board-courses)
