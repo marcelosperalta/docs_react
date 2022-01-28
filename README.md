@@ -19,6 +19,9 @@
   * [Internationalization and localization](https://github.com/marcelosperalta/docs_react#internationalization-and-localization)
   * [State management library](https://github.com/marcelosperalta/docs_react#state-management-library)
   * [Data Fetching](https://github.com/marcelosperalta/docs_react#data-fetching)
+  * [List of APIs]()
+  * [Fake / Mock REST API]()
+  * [Fake / Mock GraphQL API]()
   * [Types](https://github.com/marcelosperalta/docs_react#types)
   * [Testing (end-to-end tests, integration tests, and unit tests)](https://github.com/marcelosperalta/docs_react#testing-end-to-end-tests-integration-tests-and-unit-tests)
   * [Framework](https://github.com/marcelosperalta/docs_react#framework)
@@ -109,6 +112,24 @@
   * [uRQL](https://formidable.com/open-source/urql/)
   * [Apollo Client](https://www.apollographql.com/docs/react/)
   * [Relay](https://relay.dev/)
+
+### List of APIs
+
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/API)
+* [ApiList.fun](https://apilist.fun/)
+* [Public APIs](https://github.com/public-apis/public-apis#index)
+
+### Fake / Mock REST API 
+
+* [JSON Server](https://github.com/typicode/json-server)
+* [Mirage](https://miragejs.com/)
+* [Mock Service Worker (MSW)](https://mswjs.io/)
+
+### Fake / Mock GraphQL API
+
+* [GraphQL Tools](https://www.graphql-tools.com/)
+* [Mirage JS GraphQL](https://github.com/miragejs/graphql)
+* [Mock Service Worker (MSW)](https://mswjs.io/)
 
 ### Types
 
