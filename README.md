@@ -24,6 +24,7 @@
   * [Fake / Mock GraphQL API](https://github.com/marcelosperalta/docs_react#fake--mock-graphql-api)
   * [Types](https://github.com/marcelosperalta/docs_react#types)
   * [Testing (end-to-end tests, integration tests, and unit tests)](https://github.com/marcelosperalta/docs_react#testing-end-to-end-tests-integration-tests-and-unit-tests)
+  * [Custom notifications]()
   * [Framework](https://github.com/marcelosperalta/docs_react#framework)
 * [Articles](https://github.com/marcelosperalta/docs_react#newspaper-articles)
 * [Courses](https://github.com/marcelosperalta/docs_react#mortar_board-courses)
@@ -142,6 +143,10 @@
 * [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 * [@testing-library](https://testing-library.com/)
 * [Cypress](https://www.cypress.io/)
+
+### Custom notifications
+
+* [React-toastify](https://fkhadra.github.io/react-toastify/introduction/)
 
 ### Framework
 
