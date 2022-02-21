@@ -170,7 +170,7 @@
   * [Prop drilling](https://kentcdodds.com/blog/prop-drilling)
 
 * \#forms \#dynamic
-* [How to Build Dynamic Forms in React]()
+* [How to Build Dynamic Forms in React](https://github.com/marcelosperalta/docs_react/tree/master/articles/forms_kumar)
 
 <hr>
 
