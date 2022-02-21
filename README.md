@@ -161,10 +161,10 @@
 
 * \#roadmap
   * [The React Roadmap: 10 Steps to Become a React Developer in 2021](https://www.freecodecamp.org/news/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021/)
-  * [How to Learn React in 2021: The 7 Skills You Need To Know]()
+  * [How to Learn React in 2021: The 7 Skills You Need To Know](https://github.com/marcelosperalta/docs_react/tree/master/articles/roadmap_barger)
 
 * \#components \#functional \#class
-  * [Understanding Functional Components vs. Class Components in React]()
+  * [Understanding Functional Components vs. Class Components in React](https://github.com/marcelosperalta/docs_react/tree/master/articles/comp_func_class_yamazaki)
 
 * \#propdrilling
   * [Prop drilling](https://kentcdodds.com/blog/prop-drilling)
