@@ -161,13 +161,16 @@
 
 * \#roadmap
   * [The React Roadmap: 10 Steps to Become a React Developer in 2021](https://www.freecodecamp.org/news/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021/)
-  * [How to Learn React in 2021: The 7 Skills You Need To Know](https://github.com/marcelosperalta/study_react/tree/master/articles/reed_barger)
+  * [How to Learn React in 2021: The 7 Skills You Need To Know]()
 
 * \#components \#functional \#class
-  * [Understanding Functional Components vs. Class Components in React](https://github.com/marcelosperalta/study_react/tree/master/articles/shiori_yamazaki)
+  * [Understanding Functional Components vs. Class Components in React]()
 
 * \#propdrilling
   * [Prop drilling](https://kentcdodds.com/blog/prop-drilling)
+
+* \#forms \#dynamic
+* [How to Build Dynamic Forms in React]()
 
 <hr>
 
