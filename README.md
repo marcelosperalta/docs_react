@@ -85,6 +85,7 @@
 ### Forms
 
 * [Unform](https://unform.dev/)
+* [React Hook Form](https://react-hook-form.com/)
 * [Formik](https://formik.org/)
 * [Redux Form](https://redux-form.com/)
 
