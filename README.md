@@ -73,7 +73,7 @@
 * [styled-components](https://styled-components.com/)
 * [Stitches](https://stitches.dev/)
 * [Tailwind CSS](https://tailwindcss.com/)
-  * [Hheadless UI](https://headlessui.dev/)
+  * [Headless UI](https://headlessui.dev/)
 
 ### Build UI components
 
