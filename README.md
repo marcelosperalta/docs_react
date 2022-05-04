@@ -17,6 +17,7 @@
   * [Forms](https://github.com/marcelosperalta/docs_react#forms)
   * [Modal dialog (modal window)](https://github.com/marcelosperalta/docs_react#modal-dialog-modal-window)
   * [Internationalization and localization](https://github.com/marcelosperalta/docs_react#internationalization-and-localization)
+  * [Web Accessibility]()
   * [State management library](https://github.com/marcelosperalta/docs_react#state-management-library)
   * [Data Fetching](https://github.com/marcelosperalta/docs_react#data-fetching)
   * [List of APIs](https://github.com/marcelosperalta/docs_react#list-of-apis)
@@ -71,6 +72,8 @@
 
 * [styled-components](https://styled-components.com/)
 * [Stitches](https://stitches.dev/)
+* [Tailwind CSS](https://tailwindcss.com/)
+ * [Hheadless UI](https://headlessui.dev/)
 
 ### Build UI components
 
@@ -98,6 +101,11 @@
 * [LinguiJS](https://lingui.js.org/tutorials/react.html)
 * [react-i18next](https://react.i18next.com/)
 * [react-intl](https://formatjs.io/docs/react-intl/#the-react-intl-package)
+
+### Web Accessibility
+
+* [Reakit](https://reakit.io/)
+* [Radix](https://www.radix-ui.com/)
 
 ### State management library
 
